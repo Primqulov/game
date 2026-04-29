@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "producer": "Java AppCAT CLI",
+  "metadata": {
+    "analysisStartTime": "2026-04-29T15:23:56.2562735Z",
+    "analysisEndTime": "2026-04-29T15:23:56.559026Z",
+    "status": "Complete",
+    "privacyMode": "Protected",
+    "privacyModeHelpUrl": "https://aka.ms/appcat-privacy-mode",
+    "targetIds": [],
+    "targetDisplayNames": null,
+    "capabilities": [],
+    "os": [
+      "windows"
+    ]
+  },
+  "summary": {
+    "totalProjects": 1,
+    "totalIssues": 0,
+    "totalIncidents": 0,
+    "totalEffort": 0,
+    "charts": {
+      "severity": {
+        "mandatory": 0,
+        "optional": 0,
+        "potential": 0,
+        "information": 0
+      },
+      "category": {}
+    }
+  },
+  "projects": [
+    {
+      "path": ".",
+      "issues": 0,
+      "storyPoints": 0,
+      "properties": {
+        "appName": "vazifa",
+        "jdkVersion": "Unknown",
+        "frameworks": null,
+        "languages": [
+          "Python",
+          "Java"
+        ],
+        "tools": null
+      },
+      "incidents": []
+    }
+  ],
+  "rules": {}
+}

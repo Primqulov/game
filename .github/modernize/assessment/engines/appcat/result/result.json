@@ -1,0 +1,15 @@
+{
+  "manifestVersion": "1.1.0",
+  "properties": {
+    "appName": "vazifa",
+    "jdkVersion": "Unknown",
+    "targets": [],
+    "tools": null,
+    "frameworks": null,
+    "languages": [
+      "Python",
+      "Java"
+    ]
+  },
+  "ruleSets": []
+}
